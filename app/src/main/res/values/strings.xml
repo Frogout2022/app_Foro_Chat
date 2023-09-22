@@ -4,6 +4,7 @@
     //texto
     <string name="app_name">Los Jardines </string>
     <string name="carLblMensaje">Cargando Aplicacion</string>
+    <string name="carLblBienvenido">¡Bienvenido!</string>
     //login
     <string name="logTxtCorreo">example@email.com</string>
     <string name="logTxtClave">*********** </string>
