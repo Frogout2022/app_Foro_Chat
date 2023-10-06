@@ -2,7 +2,7 @@
 
     //login string
     //texto
-    <string name="app_name">Los Jardines </string>
+    <string name="app_name">Colegio Abraham Valdelomar n116 </string>
     <string name="carLblMensaje">Cargando Aplicacion</string>
     <string name="carLblBienvenido">¡Bienvenido!</string>
     //login
@@ -17,11 +17,11 @@
     <string name="logBtnSalir">Salir</string>
     //texto
     <string name="logTitIniciar">Iniciar Sesión</string>
-    <string name="logTitHola">!Hola¡ ¿Estas listos para una partido?</string>
+    <string name="logTitHola">!Hola¡ ¿Estas para un fabuloso dia ?</string>
     <string name="logTitCorreo">Email</string>
     <string name="logTitClave">Password </string>
     <string name="logMegRegistrate">Registrate si no lo estas</string>
-    <string name="logLblCopyRight">Los Jardines </string>
+    <string name="logLblCopyRight">I.E. Abraham Valdelomar n116 </string>
 
     //recuperar password
     <string name="recTitPassword">Cambiar Contraseña</string>
@@ -29,7 +29,7 @@
     <string name="recTxtRepitaPassword">Repita su contraseña</string>
 
     //registro string
-    <string name="regTitulo">Registrate  Los Jardines</string>
+    <string name="regTitulo">Registrate  I.E. Abraham Valdelomar n116</string>
     //registro
     <string name="regNombre">Nombre</string>
     <string name="regApellido">Apellidos</string>
@@ -59,10 +59,10 @@
     //Bienvenido String
     <string name="bieLblSaludo">Bienvenido {usuario}</string>
     //texto //link
-    <string name="bieLblCan1">1- Losa del pueblo</string>
-    <string name="bieLblCan2">2- Losa del barrio</string>
-    <string name="bieLblCan3">3- Losa de los patas</string>
-    <string name="bieLblCan4">4- Losa La Familia</string>
+    <string name="bieLblCan1">A - Salon \\ Seccion A</string>
+    <string name="bieLblCan2">B - Salon \\ Seccion B</string>
+    <string name="bieLblCan3">C - Salon \\ Seccion C</string>
+    <string name="bieLblCan4">D - Salon \\ Seccion D</string>
     //button
     <string name="bieBtnSalir">Salir</string>
 
