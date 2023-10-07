@@ -22,7 +22,7 @@
                 android:layout_weight="1"
                 android:layout_margin="5dp"
                 android:layout_gravity="center"
-                android:src="@drawable/iccancha_1" />
+                android:src="@drawable/IC_A" />
             <ImageButton
                 android:id="@+id/frg_men_ibt_Losa2"
                 android:layout_width="match_parent"
@@ -32,7 +32,7 @@
                 android:layout_weight="1"
                 android:layout_margin="5dp"
                 android:layout_gravity="center"
-                android:src="@drawable/iccancha_2" />
+                android:src="@drawable/IC_B" />
 
             <ImageButton
                 android:id="@+id/frg_men_ibt_Losa3"
@@ -41,7 +41,7 @@
                 android:layout_weight="1"
                 android:layout_margin="5dp"
                 android:layout_gravity="center"
-                android:src="@drawable/iccancha_3" />
+                android:src="@drawable/IC_C" />
 
             <ImageButton
                 android:id="@+id/frg_men_ibt_Losa4"
@@ -50,7 +50,7 @@
                 android:layout_weight="1"
                 android:layout_margin="5dp"
                 android:layout_gravity="center"
-                android:src="@drawable/iccancha_4" />
+                android:src="@drawable/IC_D" />
 
     </LinearLayout>
     </LinearLayout>

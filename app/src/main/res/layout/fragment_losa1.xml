@@ -8,7 +8,7 @@
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center">
         <LinearLayout
@@ -19,7 +19,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:textSize="20dp"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:textStyle="bold"
                 android:text="@string/car1TitLosa"/>
         </LinearLayout>
@@ -42,38 +42,45 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:textStyle="bold"
                 android:textSize="18dp"
                 android:text="@string/car1Horario"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:textStyle="bold"
                 android:textSize="18dp"
-                android:text="@string/car1Rbt3a4"/>
+                android:text="@string/car1Rbtpr1"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:textStyle="bold"
                 android:textSize="18dp"
-                android:text="@string/car1Rbt5a6" />
+                android:text="@string/car1Rbtpr2" />
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/white"
+                android:textColor="@color/black"
                 android:textStyle="bold"
                 android:textSize="18dp"
-                android:text="@string/car1Rbt7a8"/>
+                android:text="@string/car1Rbtpr3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:text="@string/car1Rbtpr4"/>
 
         </LinearLayout>
 
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="62dp"
+            android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <Button
